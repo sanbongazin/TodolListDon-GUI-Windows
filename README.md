@@ -30,3 +30,8 @@ Todoを上の欄に入力して追加を押すと、追加され、中段のリ�
 
 # ライセンスについて
 このソフト自体はMITライセンスです。
+また、APIは、yamachuさんのMastodotを使用しました。ありがとうございます。
+
+
+Copyright (c) 2019 Ichiya Takashiro
+Released under the MIT license
