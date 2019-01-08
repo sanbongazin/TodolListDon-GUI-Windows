@@ -1,4 +1,4 @@
-# TodolListDon-GUI-Windows"
+# TodolListDon-GUI-Windows
 
 ## このソフトについて
 TodoListを自動送信するソフトです。
